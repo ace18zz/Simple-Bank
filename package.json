@@ -1,0 +1,28 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "This is a simple banking application developed in JavaScript that allows users to make deposits, withdrawals and print their transaction history. Unit tests are implemented with jasmine-node.",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ace18zz/bank-challenge.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ace18zz/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/ace18zz/bank-challenge#readme",
+  "devDependencies": {
+    "jasmine-node": "^3.0.0"
+  }
+}
